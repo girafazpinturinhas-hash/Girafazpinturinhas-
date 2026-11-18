@@ -1,0 +1,16 @@
+GIR AFAZ PINTURINHAS — PUBLICAÇÃO
+
+Conteúdo: index.html (site completo, com imagens incorporadas).
+
+PUBLICAR GRATUITAMENTE NA VERCEL:
+1. Extraia este ZIP.
+2. Crie uma conta em https://vercel.com/.
+3. O caminho mais simples é criar um repositório no GitHub, enviar index.html para a raiz e importar esse repositório na Vercel.
+4. Na configuração do projeto, selecione Framework Preset: Other. Deixe Build Command vazio e use . (ponto) como Output Directory.
+5. Clique em Deploy. A Vercel fornecerá um endereço público *.vercel.app.
+
+OBSERVAÇÕES:
+- O HTML é uma página estática independente; as imagens principais já estão incorporadas nele.
+- Removi apenas a ferramenta interna de edição/publicação do Claude, que depende do ambiente Claude. O site público, navegação, calculadora de duração, ampliação de fotos e links de WhatsApp/Instagram permanecem.
+- A seção adicional “Galeria de arte” começa vazia, como no arquivo original.
+- Depois de publicar, cadastre o endereço no Google Search Console e solicite a indexação. A aparição no Google pode levar algum tempo e não há garantia de posição.
